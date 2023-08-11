@@ -1,7 +1,7 @@
 # ¡Hola!
 ## Te doy la bienvenida.
 
-Soy Daniel, un joven de 19 años entusiasta de las nuevas tecnologías y el mundo de la <i>programación</i>.
+Soy Daniel, un joven de 20 años entusiasta de las nuevas tecnologías y el mundo de la <i>programación</i>.
 Siempre me han resultado temas muy curiosos y entretenidos de afrontar lo que me llevó a cursar <i><b>S.M.R</b></i> y posteriormente <i><b>D.A.M</b></i>.
 
 Actualmente tengo conocimiento de los siguientes frameworks y lenguajes:
@@ -19,10 +19,10 @@ Soy un programador que prefiere más el back-end y el manejo de bases de datos p
 ## Contacto
 
 Puede contactar conmigo utilizando mi correo electrónico.
-- capa5021@gmail.com
+- daniel@velka.es
 
 O añadiendome en <i>Discord</i>
-- DarkRPA#1417
+- @erios_r
 
 <!---
 DarkRPA/DarkRPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

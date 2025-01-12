@@ -1,7 +1,7 @@
 # ¡Hola!
 ## Te doy la bienvenida.
 
-Soy Daniel, un joven de 20 años entusiasta de las nuevas tecnologías y el mundo de la <i>programación</i>.
+Soy Daniel, un joven de 22 años entusiasta de las nuevas tecnologías y el mundo de la <i>programación</i>.
 Siempre me han resultado temas muy curiosos y entretenidos de afrontar lo que me llevó a cursar <i><b>S.M.R</b></i> y posteriormente <i><b>D.A.M</b></i>.
 
 Actualmente tengo conocimiento de los siguientes frameworks y lenguajes:
@@ -12,7 +12,6 @@ Actualmente tengo conocimiento de los siguientes frameworks y lenguajes:
 - JS
 - Lua
 - Laravel
-- Y comenzando a aprender a usar SpringBoot :)
 
 Soy un programador que prefiere más el back-end y el manejo de bases de datos pero las puertas siempre están abiertas para oportunidades de seguir aprendiendo más y adquiriendo habilidades.
 
